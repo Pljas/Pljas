@@ -17,7 +17,7 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<br />
+<br /><br />
 
 Hello, my name is Mikhail. I'm currently working as a DevOps at Cabinet42. I'm programming in Java and learning some other interesting technologies.
 
