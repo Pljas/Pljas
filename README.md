@@ -7,16 +7,6 @@
 <a href="https://t.me/pljas">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://twitter.com/MihaPljas">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.facebook.com/Pljas/">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
-
-<a href="https://www.instagram.com/pljas/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
 <br /><br />
 
 Hello, my name is Mikhail. I'm currently working as a DevOps at Cabinet42. I'm programming in Java and learning some other interesting technologies.
