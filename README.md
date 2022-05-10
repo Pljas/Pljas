@@ -33,7 +33,6 @@ Hello, my name is Mikhail. I'm currently working as a DevOps at Cabinet42. I'm p
   
 🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
-* [x] Fill out your GitHub profile
+* [x] Implement Web3 technologies in company projects   
 * [ ] To develop skills in JavaScript and Solidity
-* [ ] Implement Web3 technologies in company projects       
 <!-- TODO-IST:END -->
