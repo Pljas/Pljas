@@ -1,15 +1,6 @@
 ### Hi!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://vk.com/pljas.miha">
-  <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
-</a>
-</a>
-<a href="https://t.me/pljas">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<br /><br />
-
-Hello, my name is Mikhail. I'm currently working as a DevOps at Cabinet42. I'm programming in Java and learning some other interesting technologies.
+My name is Mikhail. I'm currently working as a DevOps at Cabinet42. I'm programming in Java and learning some other interesting technologies.
 
 <br />
 
@@ -25,14 +16,14 @@ Hello, my name is Mikhail. I'm currently working as a DevOps at Cabinet42. I'm p
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png"></code>
-
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
 <br />
   
 🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
-* [x] Implement Web3 technologies in company projects   
-* [ ] To develop skills in JavaScript and Solidity
+* [x] Support Web3 networks   
+* [ ] Bringing Web3 technology into the mainstream
 <!-- TODO-IST:END -->
