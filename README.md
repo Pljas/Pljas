@@ -1,6 +1,6 @@
 ### Hi!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My name is Mikhail. I'm currently working as a DevOps at Cabinet42. I'm programming in Java and learning some other interesting technologies.
+My name is Mikhail. I'm currently working as a DevOps at Cabinet42. I do a bit of programming and am learning some other interesting technologies.
 
 <br />
 
