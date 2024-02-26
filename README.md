@@ -1,6 +1,6 @@
 ### Hi!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My name is Mikhail. I'm currently working as a engineer at <a href="https://twitter.com/cabinet_42" target="_blank">Cabinet42</a>. I do a bit of programming and am learning some other interesting technologies.
+My name is Mikhail. I am currently working as an engineer at <a href="https://twitter.com/cabinet_42" target="_blank">Cabinet42</a>. I program a bit and study other interesting technologies.
 
 <br />
 
