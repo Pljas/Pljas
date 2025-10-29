@@ -1,23 +1,40 @@
-### Hi!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- HEADER -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700size=24&pause=1000&color=4C7DFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Miha+Pljas;DevOps+%7C+AI+Automation+%7C+Web3" alt="Typing SVG" />
+</h1>
 
-My name is Mikhail. I am currently working as an engineer at <a href="https://twitter.com/cabinet_42" target="_blank">Cabinet42</a>. I program a bit and study other interesting technologies.
+### 🧠 About Me
+Engineer & AI enthusiast focused on **DevOps**, **Web3 infrastructure**, and **automation tools**.  
+Exploring how AI can optimize distributed systems and blockchain ecosystems.  
+Open to collaboration and research partnerships.
 
-<br />
+---
 
-<img align="right" alt="GIF" src="https://github.com/Pljas/Pljas/raw/main/logo.png" width="188" height="162" />
-  
-**Languages and Tools:**  
+### 🧰 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,docker,kubernetes,ansible,terraform,bash,linux" />
+</p>
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
-<br />
-  
-🚧 **My tasks for the near future:**
-<!-- TODO-IST:START -->
-* [x] Support Web3 networks
-* [ ] Bringing Web3 technology into the mainstream
-<!-- TODO-IST:END -->
+---
+
+### 🎯 Focus
+- AI × Infrastructure Automation  
+- Web3 Nodes & Validator Deployments  
+- Python Automation Scripts  
+- Collaborative AI Tools
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pljas&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pljas&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🌐 Connect
+<p align="center">
+  <a href="https://x.com/MihaPljas"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
+  <a href="mailto:miha.pljas@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+</p>
