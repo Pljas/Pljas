@@ -27,8 +27,8 @@ Open to collaboration and research partnerships.
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pljas&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pljas&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pljas&show_icons=true&theme=tokyonight&hide_border=true" style="width: 48%; height: 165px; object-fit: cover;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pljas&theme=tokyonight&hide_border=true" style="width: 48%; height: 165px; object-fit: cover;" />
 </p>
 
 ---
