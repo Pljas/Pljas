@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Miha Pljas</title>
+  <desc id="desc">Building resilient automation and self-hosted systems from messy real-world workflows. Used to run Cosmos nodes.</desc>
+
+  <rect width="1200" height="360" rx="28" fill="#0B0F14"/>
+  <rect x="1" y="1" width="1198" height="358" rx="27" fill="none" stroke="#1E2A3C" stroke-width="2"/>
+
+  <text x="56" y="86" fill="#6B7C94" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" letter-spacing="3">AUTOMATION</text>
+  <text x="56" y="156" fill="#E8EEF7" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="56" font-weight="700">Miha Pljas</text>
+  <text x="56" y="210" fill="#C5D0E0" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24">Building resilient automation.</text>
+  <text x="56" y="246" fill="#8B9BB4" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="20">Self-hosted systems from messy real-world workflows.</text>
+
+  <g transform="translate(720 64)">
+    <rect width="424" height="232" rx="16" fill="#0F1622" stroke="#243044"/>
+    <circle cx="28" cy="24" r="6" fill="#3D2A2A"/>
+    <circle cx="48" cy="24" r="6" fill="#3D3820"/>
+    <circle cx="68" cy="24" r="6" fill="#1E3328"/>
+    <text x="96" y="30" fill="#6B7C94" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">~/ops</text>
+
+    <text x="28" y="72" fill="#4C7DFF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">› what</text>
+    <text x="28" y="102" fill="#E8EEF7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">keep it running.</text>
+    <text x="28" y="140" fill="#4C7DFF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">› now</text>
+    <text x="28" y="170" fill="#E8EEF7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">self-host · bots · n8n</text>
+    <text x="28" y="208" fill="#4C7DFF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">› was</text>
+    <text x="200" y="208" fill="#6B7C94" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">cosmos nodes</text>
+  </g>
+</svg>

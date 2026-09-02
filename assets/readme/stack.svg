@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-labelledby="title desc">
+  <title id="title">Stack</title>
+  <desc id="desc">Linux, Docker, Ansible, Python, n8n, Coolify, Cosmos SDK</desc>
+  <rect width="1200" height="140" rx="24" fill="#0B0F14"/>
+  <rect x="1" y="1" width="1198" height="138" rx="23" fill="none" stroke="#1E2A3C" stroke-width="2"/>
+  <text x="48" y="42" fill="#8B9BB4" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" letter-spacing="2">STACK</text>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="20" font-weight="600" fill="#E8EEF7">
+    <rect x="48" y="64" width="118" height="44" rx="12" fill="#182236"/>
+    <text x="76" y="92">Linux</text>
+    <rect x="178" y="64" width="128" height="44" rx="12" fill="#182236"/>
+    <text x="204" y="92">Docker</text>
+    <rect x="318" y="64" width="132" height="44" rx="12" fill="#182236"/>
+    <text x="342" y="92">Ansible</text>
+    <rect x="462" y="64" width="128" height="44" rx="12" fill="#182236"/>
+    <text x="490" y="92">Python</text>
+    <rect x="602" y="64" width="100" height="44" rx="12" fill="#182236"/>
+    <text x="628" y="92">n8n</text>
+    <rect x="714" y="64" width="128" height="44" rx="12" fill="#182236"/>
+    <text x="736" y="92">Coolify</text>
+    <rect x="854" y="64" width="298" height="44" rx="12" fill="#182236"/>
+    <text x="878" y="92">Cosmos SDK nodes</text>
+  </g>
+</svg>
